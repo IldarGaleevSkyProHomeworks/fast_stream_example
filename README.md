@@ -1,5 +1,8 @@
 # Пример с FastStream - Redis
 
+- [FastStream](https://github.com/airtai/faststream) - фреймворк для работы с брокерами сообщений
+- [Redis](https://github.com/redis/redis) - in-memory база данных и брокер сообщений
+
 ## Подготовка
 
 1. Клонируем проект
